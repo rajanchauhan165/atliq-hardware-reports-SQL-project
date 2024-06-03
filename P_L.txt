@@ -1,0 +1,13 @@
+promotional offer + placement fee + performance rebate = post invoice deductions
+manufacturing cost + freight + other cost = COGS (Cost of goods sold)
+
+	P/L
+
+	Gross Price ------------ = 30
+	-Pre Invoice Deductions  = 2
+	Net invoice sales ------ = 20
+	-Post invoice deductions = 3
+	Net sales -------------- = 25
+	-COGS ------------------ = 20
+	Gross margin ----------- = 5
+	GM on NS --------------- = 20%
